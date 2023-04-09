@@ -1,8 +1,18 @@
-# Descrição do projeto
+# Descrição do repositório
 
 Este dataset contém os dados obtidos dos participantes durante a etapa de aplicação do experimento, contendo dados tabulados informados pelo participante nos formulários de conhecimentos anteriores, formulário do experimetno e formulário de feedback. Além disto possui dados extraídos do código fonte com o qual o participante interagiu, sua quantidade de testes identificados, e testes criados, etc. 
 
 A segunda parte do dataset contém dados referentes ao levantamento dos cursos da área de computação presentes nas universidades federais do Brasil, e em quais foram encontradas disciplinas relacionadas a àrea de testes.
+
+# Descrição do experimento
+
+O experimento foi realizado nas seguintes etapas:
+
+- Alocação dos participantes no laboratório
+- Separação dos participantes em dois grupos
+- Preenchimento do formulário de conhecimentos anteriores
+- Início da atividade prática
+- Preenchimento do formulário de feedback
 
 # Descrição do dataset do projeto 
 
